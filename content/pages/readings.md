@@ -26,12 +26,135 @@ Giaquinta, M., and S. Hilderbrandt. _Calculus of Variations I_. New York, NY: Sp
 
 Troutman, J. L. _Variational Calculus with Elementary Convexity_. New York, NY: Springer-Verlag, 1983. ISBN: 9780387907710.
 
-| LEC # | Topics | READINGS | PRACTICE PROBLEMS |
-| --- | --- | --- | --- |
-| 1 | Vector space, linear independence, dimension of a vector space, basis for vector space, components of a vector | pp. 1-8 | Problems 1.1-1.11 |
-| 2 | Scalar product, length of vector, distance between vectors, angle between vectors, orthonormal basis | pp. 9-17 | Problems 1.12-1.20 |
-| 3 | Linear transformations, invariant subspace, eigenvalue problem | pp. 18-20 and 23-26 | Problems 2.1, 2.3, 2.6, and 2.17 (except questions about singular/non-singular/inverse transforms) |
-| 4 | Null space, singular/non-singular linear transformations, inverse, components of a linear transformation | Chapter 2 | Problems 2.1-2.5, 2.8, 2.9, 2.11, and 2.15-2.17 |
-| 5 | Components of a linear transformation, components in different bases, scalar invariants, cartesian tensors, symmetric tensors, skew-symmetric tensors | pp. 27-32 and 42-46 | Problems 3.1-3.12 |
-| 6 | Eigenvalues of a symmetric tensor, principal basis, positive-definite tensor, orthogonal tensor, proper/improper, orthogonal tensor | pp. 42-52 (except tensor products) and 56-57 | Problems 3.13-3.18, 3.20, and 3.24-3.26 |
-| 7 | Tensor product of 2 vectors, polar decomposition of a non-singular tensor |  {{< br >}}{{< br >}} pp. 44 and 57-59 {{< br >}}{{< br >}} Also read chapters 2 and 3 in Abeyaratne, Rohan. _Lecture Notes on the Mechanics of Elastic Solids_. {{< br >}}{{< br >}}  | Problems 3.3-3.7, 3.11-3.16, 3.22, and 3.23
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+{{< thopen >}}
+PRACTICE PROBLEMS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Vector space, linear independence, dimension of a vector space, basis for vector space, components of a vector
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 1-8
+{{< tdclose >}}
+{{< tdopen >}}
+Problems 1.1-1.11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Scalar product, length of vector, distance between vectors, angle between vectors, orthonormal basis
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 9-17
+{{< tdclose >}}
+{{< tdopen >}}
+Problems 1.12-1.20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Linear transformations, invariant subspace, eigenvalue problem
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 18-20 and 23-26
+{{< tdclose >}}
+{{< tdopen >}}
+Problems 2.1, 2.3, 2.6, and 2.17 (except questions about singular/non-singular/inverse transforms)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Null space, singular/non-singular linear transformations, inverse, components of a linear transformation
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 2
+{{< tdclose >}}
+{{< tdopen >}}
+Problems 2.1-2.5, 2.8, 2.9, 2.11, and 2.15-2.17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Components of a linear transformation, components in different bases, scalar invariants, cartesian tensors, symmetric tensors, skew-symmetric tensors
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 27-32 and 42-46
+{{< tdclose >}}
+{{< tdopen >}}
+Problems 3.1-3.12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Eigenvalues of a symmetric tensor, principal basis, positive-definite tensor, orthogonal tensor, proper/improper, orthogonal tensor
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 42-52 (except tensor products) and 56-57
+{{< tdclose >}}
+{{< tdopen >}}
+Problems 3.13-3.18, 3.20, and 3.24-3.26
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Tensor product of 2 vectors, polar decomposition of a non-singular tensor
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+pp. 44 and 57-59
+
+Also read chapters 2 and 3 in Abeyaratne, Rohan. _Lecture Notes on the Mechanics of Elastic Solids_.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problems 3.3-3.7, 3.11-3.16, 3.22, and 3.23
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
